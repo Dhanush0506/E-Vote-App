@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "427747180464",
+    "project_id": "votingapp-32325",
+    "storage_bucket": "votingapp-32325.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427747180464:android:6bca842be95adbcb972075",
+        "android_client_info": {
+          "package_name": "com.olokart.votingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427747180464-jo2pemhh0c78kagi6b36fmuhcpev8buo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.olokart.votingapp",
+            "certificate_hash": "825430fdfd679685abb6723e2ed31849e4eb8f45"
+          }
+        },
+        {
+          "client_id": "427747180464-bobfuiiljnhmlnbnpnhctiakuds58rfp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc2grI6bqVeitFucZsRSMVUvKR1__v3vs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427747180464-bobfuiiljnhmlnbnpnhctiakuds58rfp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "427747180464-noglotq405f5qot0376qo02u4mvhagqf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.olokart.votingapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
